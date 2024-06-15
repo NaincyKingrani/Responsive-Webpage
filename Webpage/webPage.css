@@ -1,0 +1,46 @@
+
+
+li{
+    display: inline;
+    padding: 100px;
+}
+
+.a1{
+    text-decoration: none;
+    font-weight: bolder;
+color: white;   
+font-size: larger;
+margin-top: 100px; 
+}
+
+
+a:hover{
+    color: brown;
+}
+
+.ul{
+    background-color: black;
+    height: 50px;
+    padding-top: 20px;
+}
+button{
+    margin-left: 400px;
+    width: 100px;
+    height: 40px;
+}
+
+footer{
+    width: 1600px;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 300px;
+    font-weight: 300px;
+    
+    background-color: black;
+
+    
+    color:white;
+}
+
+
